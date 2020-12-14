@@ -1,0 +1,34 @@
+*{
+  padding: 0px;
+  margin: 0px;
+}
+#Titulo-1 {
+  color: #c4563e;
+}
+a:link, a:visited, a:active {
+    text-decoration:none;
+}
+#head-main {
+  font-size:2em;
+  font-family: 'Stylish', sans-serif;
+  color: #F2DC14;
+  background-color: #000;
+  width: 100vw;
+  padding: 10px;
+  margin: c
+}
+#inicio-1 {
+  color: #F2DC14;
+  display: inline;
+  margin: auto;
+}
+#pagina-1 {
+  color: #F2DC14;
+  display: inline;
+  margin: auto;
+}
+#sobremi-1 {
+  color: #F2DC14;
+  display: inline;
+  margin: auto;
+}
